@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TP3_1" targetName="TP3_1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00905e99-6209-492f-89a1-855eee546bb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1409" />
+    <option name="height" value="817" />
+  </component>
+  <component name="ProjectId" id="1cXLqB2N78OGlPjdyqfBw7MwauJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP3_2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TP3_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TP3_1" TARGET_NAME="TP3_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TP3_1" RUN_TARGET_NAME="TP3_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00905e99-6209-492f-89a1-855eee546bb2" name="Default Changelist" comment="" />
+      <created>1558104533006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558104533006</updated>
+      <workItem from="1558104535585" duration="683000" />
+      <workItem from="1558113570147" duration="1707000" />
+      <workItem from="1558115654557" duration="992000" />
+      <workItem from="1558117519848" duration="431000" />
+      <workItem from="1558120115303" duration="501000" />
+      <workItem from="1558121959876" duration="194000" />
+      <workItem from="1558126408143" duration="775000" />
+      <workItem from="1558128299499" duration="496000" />
+      <workItem from="1558207321567" duration="270000" />
+      <workItem from="1558353659958" duration="594000" />
+      <workItem from="1558355585729" duration="504000" />
+      <workItem from="1558508745104" duration="66000" />
+      <workItem from="1558508925481" duration="881000" />
+      <workItem from="1558522631864" duration="1771000" />
+      <workItem from="1558524523880" duration="1774000" />
+      <workItem from="1558526345741" duration="1839000" />
+      <workItem from="1558528295674" duration="1785000" />
+      <workItem from="1558530186709" duration="1240000" />
+      <workItem from="1558611017615" duration="2253000" />
+      <workItem from="1558722786886" duration="3424000" />
+      <workItem from="1560777495629" duration="2155000" />
+      <workItem from="1590670182086" duration="1363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590670414345">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1590670414345" />
+    <state width="1804" height="274" key="GridCell.Tab.0.bottom" timestamp="1590678219203">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="274" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1590678219203" />
+    <state width="1804" height="274" key="GridCell.Tab.0.center" timestamp="1590678219203">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="274" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1590678219203" />
+    <state width="1804" height="274" key="GridCell.Tab.0.left" timestamp="1590678219202">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="274" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1590678219202" />
+    <state width="1804" height="274" key="GridCell.Tab.0.right" timestamp="1590678219203">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="274" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1590678219203" />
+  </component>
+</project>

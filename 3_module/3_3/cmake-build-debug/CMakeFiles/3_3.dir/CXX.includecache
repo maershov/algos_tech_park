@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mershov/tp_mail_2020/Algos_1/3_module/3_3/main.cpp
+iostream
+-
+vector
+-
+cassert
+-
+list
+-
+queue
+-
+limits
+-
+

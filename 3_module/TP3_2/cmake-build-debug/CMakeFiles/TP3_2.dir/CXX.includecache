@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mershov/tp_mail_2020/Algos_1/3_module/TP3_2/main.cpp
+iostream
+-
+vector
+/home/mershov/tp_mail_2020/Algos_1/3_module/TP3_2/vector
+list
+/home/mershov/tp_mail_2020/Algos_1/3_module/TP3_2/list
+assert.h
+/home/mershov/tp_mail_2020/Algos_1/3_module/TP3_2/assert.h
+queue
+/home/mershov/tp_mail_2020/Algos_1/3_module/TP3_2/queue
+
